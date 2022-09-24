@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family: sans-serif;
+
+}
+body{
+    background:url('bg.jpeg');
+	background-repeat:no-repeat;
+	background-size:cover;
+	
+}
+form{
+    border:dotted black;
+margin:auto;
+    border-radius: 20px;
+    color:black;
+}
+button{
+    background-color: green;
+}
+a{
+    background-color:yellow;
+}

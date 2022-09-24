@@ -1,0 +1,25 @@
+.coin-list{
+    position: absolute;
+    right: 5%;
+    bottom: 50px;
+    display: flex;
+    align-items: center;
+    }
+    .coin{
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+    margin: 0 25px;
+    color: rgb(111, 50, 29);
+    border: 1px solid rgb(111, 50, 29);
+    padding: 60px 70px;
+    border-radius: 20px;
+    }
+    .coin img{
+    width: 80px;
+    margin-right: 20px;
+    }
+    .coin h3{
+        color:rgb(111, 50, 29);
+        margin-bottom: 80px;
+    }
